@@ -26,6 +26,8 @@ This project is designed to:
 
 ---
 ## 🧩 User Interface
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/9273d7d2-77ae-40ba-b33e-54c0023bb75d" />
+
 <img width="1266" height="826" alt="Screenshot from 2025-08-10 17-30-26" src="https://github.com/user-attachments/assets/2cd735ed-076a-4a06-b955-d789e98a93d9" />
 
 <img width="1266" height="826" alt="Screenshot from 2025-08-10 17-30-44" src="https://github.com/user-attachments/assets/7d89cec3-e49b-4a42-b041-eae41940e14a" />
